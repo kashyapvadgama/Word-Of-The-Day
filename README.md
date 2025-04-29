@@ -28,7 +28,7 @@ npm install
 ### Run the App
 
 ```bash
-npm start
+npm expo start
 ```
 
 - This will open the **Expo Dev Tools** in your browser.
@@ -55,9 +55,6 @@ Word-Of-The-Day/
 - AsyncStorage  
 - React Navigation  
 
-## 📸 Screenshots
-
-*Add screenshots here when available.*
 
 ## 📄 License
 
